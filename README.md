@@ -1,2 +1,1 @@
-# khosa-king-
-Land saghr 
+Apt update apt upgrade
